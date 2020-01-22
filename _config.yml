@@ -1,11 +1,11 @@
 # Site settings
 author: Anthony Risch
-title: 
+title: Into the Abyss
 header-img: img/home-bg.png
 email: rischthefisch@gmail.com
 copyright_name: Anthony Risch
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lets Walk Shall We?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AbysmalPshyco
