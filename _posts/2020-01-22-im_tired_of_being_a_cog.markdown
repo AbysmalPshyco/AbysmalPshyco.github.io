@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**I'm tired of being a cog**"
-date:       2020-01-23 00:10:52 +0000
+title:      "I'm tired of being a cog"
+date:       2020-01-22 19:10:53 -0500
 permalink:  im_tired_of_being_a_cog
 ---
 
