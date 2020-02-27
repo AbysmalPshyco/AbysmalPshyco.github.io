@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "An Endless Cycle"
-date:       2020-02-27 00:03:43 +0000
+date:       2020-02-26 19:03:44 -0500
 permalink:  an_endless_cycle
 ---
 
